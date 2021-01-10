@@ -1,10 +1,10 @@
 {
-  "name": "natterstefan",
-  "version": "1.1.0",
-  "description": "Stefan Natter (@natterstefan)'s business card",
+  "name": "char0n",
+  "version": "1.0.0",
+  "description": "Vladimír Gorej (@vladimirgorej)'s business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "./bin/card.js"
+    "char0n": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -14,10 +14,10 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Stefan Natter",
-  "license": "MIT",
+  "author": "Vladimir Gorej",
+  "license": "BSD-3-Clause",
   "dependencies": {
-    "boxen": "^4.1.0",
-    "chalk": "^3.0.0"
+    "boxen": "^5.0.0",
+    "chalk": "^4.0.0"
   }
 }
