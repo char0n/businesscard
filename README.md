@@ -1,12 +1,11 @@
-It's me, Stefan!
+It's me, Vladimír Gorej, a.k.a char0n!
 
 # Usage
 
 ```bash
-npx natterstefan
+npx char0n
 ```
 
 # Credit
 
-Forked from [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552)
-([repo](https://github.com/bnb/bitandbang)) via [@mxstbr](https://github.com/mxstbr/)
+Forked from https://github.com/natterstefan/businesscard.git
