@@ -1,6 +1,6 @@
 {
   "name": "char0n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vladimír Gorej (@vladimirgorej)'s business card",
   "main": "./bin/card.js",
   "bin": {
