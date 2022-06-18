@@ -2,6 +2,7 @@
   "name": "char0n",
   "version": "1.0.1",
   "description": "Vladimír Gorej (@vladimirgorej)'s business card",
+  "type": "module",
   "main": "./bin/card.js",
   "bin": {
     "char0n": "./bin/card.js"
